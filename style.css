@@ -23,3 +23,10 @@ body {
   max-width: 1000px;
   text-align: center;
 }
+
+.code-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px 0;
+}
