@@ -27,3 +27,11 @@ Verify account UI is a simple UI designed with html, css and javascript. In this
 | Border Color         | ![#3498db](https://via.placeholder.com/10/3498db?text=+) #3498db |
 | Info Background      | ![#eaeaea](https://via.placeholder.com/10/eaeaea?text=+) #eaeaea |
 | Info Color           | ![#777](https://via.placeholder.com/10/777?text=+) #777          |
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+I welcome all contributions. You can submit any ideas as pull requests or as GitHub issues. If you'd like to improve code, have a good time! :)
