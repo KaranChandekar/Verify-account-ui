@@ -28,6 +28,12 @@ Verify account UI is a simple UI designed with html, css and javascript. In this
 | Info Background      | ![#eaeaea](https://via.placeholder.com/10/eaeaea?text=+) #eaeaea |
 | Info Color           | ![#777](https://via.placeholder.com/10/777?text=+) #777          |
 
+## Languages
+
+- HTML
+- CSS
+- Javascript
+
 ## Contributing
 
 Contributions are always welcome!
