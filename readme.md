@@ -34,6 +34,10 @@ Verify account UI is a simple UI designed with html, css and javascript. In this
 - CSS
 - Javascript
 
+## 🚀 About Me
+
+I'm a self-tought front end developer...
+
 ## Contributing
 
 Contributions are always welcome!
